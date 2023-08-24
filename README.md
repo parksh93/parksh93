@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=parksh93&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 <div align="right">
 <p>📚 My Study Note</p>
-  <a href="https://www.notion.so/Study-8494a12c384d43eeb8c0de305902b81e?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+  <a href="[https://www.notion.so/Study-8494a12c384d43eeb8c0de305902b81e?pvs=4](https://climbing-alley-625.notion.site/Study-8494a12c384d43eeb8c0de305902b81e?pvs=4)"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 </div>
 </div>            
 <div align='center'>

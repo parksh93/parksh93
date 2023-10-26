@@ -15,9 +15,8 @@
   
   <div>
     <h3>💡Tech Stack</h3> <br/>
-    <b>Languages</b><br/><br/>
-    <img src="https://img.shields.io/badge/java-CC0000?style=flat&logo=java&logoColor=white"/><br/><br/>
-    <b>Framework</b><br/><br/>
+    <b>Back</b><br/><br/>
+    <img src="https://img.shields.io/badge/java-CC0000?style=flat&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/>
     <img src="https://img.shields.io/badge/MyBatis-ED1F35?style=flat&logo=MyBatis&logoColor=white"/><br/><br/>
@@ -29,9 +28,8 @@
     <b>DB</b><br/><br/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/><br/><br/>
-    <b>Server</b><br/><br/>
-    <img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=flat&logo=Naver&logoColor=white"/><br/><br/>
-    <b>CD/CI</b><br/><br/>
+    <b>Server & CI/CD</b><br/><br/>
+    <img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=flat&logo=Naver&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/><br/><br/>
     <b>TOOLS</b><br/><br/>

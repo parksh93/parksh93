@@ -3,17 +3,16 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=parksh93&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 <div align="right">
 <p>📚 My Study Note</p>
-  <a href="https://climbing-alley-625.notion.site/Study-8494a12c384d43eeb8c0de305902b81e?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+  <a href="https://climbing-alley-625.notion.site/Study-8494a12c384d43eeb8c0de305902b81e?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a></br>
+  <hr>
+  <img src="https://komarev.com/ghpvc/?username=parksh93&label=Profile%20views&color=FFC300&style=flat" alt="parksh93" />
 </div>
 </div>            
 <div align='center'>
-<h4>👋 Welcome to my Github Profile</h4>
-<img src="https://komarev.com/ghpvc/?username=parksh93&label=Profile%20views&color=FFC300&style=flat" alt="parksh93" />
-  <br/><br/><br/>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsap50)](https://solved.ac/jsap50/)
-  
-  <div>
+<h3>👋 Welcome to my Github Profile</h3>
+  <p><b>Name</b> : 박상현</p>
+  <p><b>Email</b> : sanghyun8527@gmail.com</p>
+  <br/><br/>
     <h3>💡Tech Stack</h3> <br/>
     <b>Back</b><br/><br/>
     <img src="https://img.shields.io/badge/java-CC0000?style=flat&logo=java&logoColor=white"/>
@@ -37,8 +36,12 @@
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=Jira Software&logoColor=white"/><br><br/>  
+    <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=Jira Software&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/><br/><br/>
   </div>
+  <hr>
+<div align='center'>
+   <h3>💻 Coding Test Class</h3><br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksh93&show_icons=true&theme=dark)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsap50)](https://solved.ac/jsap50/)
 </div>
